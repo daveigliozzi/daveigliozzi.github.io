@@ -88,3 +88,15 @@ p{
   /*background-color: white;*/
   background: transparent;
 }
+
+ul{
+  ext-align: left;
+  margin-top:15px;
+  margin-left: 20px;
+  font-family:Arial;
+  font-variant: small-caps;
+  font-weight: lighter;
+  color:#3366FF;
+  /*background-color: white;*/
+  background: transparent;
+}
